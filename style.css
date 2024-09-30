@@ -1,0 +1,30 @@
+.drejtohu{
+    display: flex;
+}
+body {
+    background-color: aqua;
+    color: white;
+    padding: 40px;
+}
+#mali {
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 76px; 
+    border-radius: 15px;
+}
+
+#black {
+    color: black;
+    background-color: white;
+    border-radius: 7px;
+    padding: 10px;
+}
+#button {
+    border: none;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    float: right;
+    border-radius: 5px;
+}
